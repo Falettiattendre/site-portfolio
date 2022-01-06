@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@1&display=swap');
+
+body{
+	font-family: Open Sans;
+	color: #67230e;
+	background-image: url(interets.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: justify;
+	background-attachment: fixed;
+}
+
+#accueil a{
+	text-align: left;
+	font-family: Open Sans;
+	color: black;
+	text-decoration: none;
+	font-size: 120%;
+}
+
+#titre{
+	font-family: IM Fell DW Pica;
+	color: #66000e;
+	font-size: 400%;
+	padding-left: 10%;
+	margin-top: 30px;
+}
+
+#tricking h1{
+	font-family: Open Sans;
+	color: white;
+	font-size: 350%;
+	font-weight: lighter;
+	letter-spacing: 2rem;	
+	text-align: right;
+	padding-top: 9%;
+	padding-right: 0.5%
+}
+
+#trvid{
+	text-align: left;
+	float: left;
+	clear: both;
+	padding-top: 10%;
+	padding-left: 5%;
+	padding-bottom: 15%;
+}
+
+#trtext{
+	font-family: Open Sans;
+	color: white;
+	text-align: right;
+	margin-left: 650px;
+	text-align: justify;
+	padding-right: 3%;
+	padding-bottom: 15%;
+}
+
+#f1 h1{
+	font-family: Open Sans;
+	color: white;
+	font-size: 350%;
+	font-weight: lighter;
+	letter-spacing: 1rem;	
+	text-align: left;
+}
+
+#f1text{
+	font-family: Open Sans;
+	color: white;
+	text-align: left;
+	margin-right: 700px;
+	text-align: justify;
+	padding-bottom: 10%;
+}
+
+.container{
+	border-radius: 15%;
+	display: flex;
+	box-sizing: border-box;
+}
+
+#f1pic1 img{
+	width: 25%;
+	float: right;
+	text-align: right;
+	clear: both;
+	border-radius:0 20px 0 0;
+}
+
+#f1pic2 img{
+	width: 25%;
+	float: right;
+	text-align: right;
+	border-radius: 20px 0 0 0;
+}
+
+#f1pic3 img{
+	width: 25%;
+	float: right;
+	text-align: right;
+	clear: both;
+	border-radius: 0 0 20px 0;
+}
+
+#f1pic4 img{
+	width: 25%;
+	float: right;
+	text-align: right;
+	border-radius: 0 0 0 20px;
+}
